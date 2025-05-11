@@ -19,4 +19,11 @@
 {4,"_$Transaction$_.Begin",9},
 {4,"_$Data$_.New",10},
 {5,0f9127ca-6c0a-45ad-b3ca-e6e948594412,"Справочник.Кабинеты",1},
-{4,"_$Transaction$_.Commit",11}
+{4,"_$Transaction$_.Commit",11},
+{4,"_$Data$_.Update",12},
+{4,"_$Data$_.Delete",13},
+{4,"_$Transaction$_.Rollback",14},
+{5,b61b89cf-7b1c-416d-91f0-d38cd91e7dfe,"",2},
+{5,b61b89cf-7b1c-416d-91f0-d38cd91e7dfe,"Справочник.Учителя",2},
+{5,6aba62c2-9c71-472e-9b99-cad7293c0605,"",3},
+{5,6aba62c2-9c71-472e-9b99-cad7293c0605,"Справочник.Предметы",3}
